@@ -19,9 +19,11 @@ redirect_from:
 
 👏Hi, I'm Xiang Luo, a post-graduate student in school of information and engineering, Yunnan University.
 
-🐱‍I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.<a href='https://scholar.google.com/citations?user=OnenzXIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+🐱‍I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.
 
 🐱‍💻Currently, I am a master at YNU supervised by [Prof. Jin Wang](http://www.ise.ynu.edu.cn/teacher/973).
+
+[//]: # (<a href='https://scholar.google.com/citations?user=OnenzXIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
 [//]: # (# 🔥 News)
 
