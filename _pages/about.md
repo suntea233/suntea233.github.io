@@ -40,15 +40,15 @@ redirect_from:
 **Xiang Luo**, Zhiwen Tang*, Jin Wang*, Xuejie Zhang.
 
 <code class="language-plaintext highlighter-rouge">COLING 2024</code>
-[DuetSim: Building User Simulator with Dual Large Language Models for Task-Oriented Dialogues](https://aclanthology.org/2024.lrec-main.481/)
+[DuetSim: Building User Simulator with Dual Large Language Models for Task-Oriented Dialogues](https://aclanthology.org/2024.lrec-main.481/),
 **Xiang Luo**, Zhiwen Tang*, Jin Wang*, Xuejie Zhang.
 
 <code class="language-plaintext highlighter-rouge">ROCLING 2022</code>
-[YNU-HPCC at ROCLING 2022 Shared Task: A Transformer-based Model with Focal Loss and Regularization Dropout for Chinese Healthcare Named Entity Recognition](https://aclanthology.org/2022.rocling-1.42/)
+[YNU-HPCC at ROCLING 2022 Shared Task: A Transformer-based Model with Focal Loss and Regularization Dropout for Chinese Healthcare Named Entity Recognition](https://aclanthology.org/2022.rocling-1.42/),
 **Xiang Luo**, Jin Wang*, Xuejie Zhang.
 
 <code class="language-plaintext highlighter-rouge">SemEval 2022</code>
-[TCU at SemEval-2022 Task 8: A Stacking Ensemble Transformer Model for Multilingual News Article Similarity](https://aclanthology.org/2022.semeval-1.170/)
+[TCU at SemEval-2022 Task 8: A Stacking Ensemble Transformer Model for Multilingual News Article Similarity](https://aclanthology.org/2022.semeval-1.170/),
 **Xiang Luo**, Yanqing Niu*, Boer Zhu
 
 [//]: # (</div>)
