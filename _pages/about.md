@@ -31,8 +31,9 @@ redirect_from:
 
 # 📝 Publications 
 
-[//]: # (<div class='paper-box'></div>)
-<div class='paper-box-text' markdown="1">
+[//]: # (<div class='paper-box'>)
+
+[//]: # (<div class='paper-box-text' markdown="1">)
 
 <code class="language-plaintext highlighter-rouge">ACL 2024</code>
 [Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation](https://aclanthology.org/2024.acl-long.312/),
@@ -50,8 +51,9 @@ redirect_from:
 [TCU at SemEval-2022 Task 8: A Stacking Ensemble Transformer Model for Multilingual News Article Similarity](https://aclanthology.org/2022.semeval-1.170/)
 **Xiang Luo**, Yanqing Niu*, Boer Zhu
 
-</div>
+[//]: # (</div>)
 
+[//]: # (</div>)
 
 # 🎖 Honors and Awards
 - **1st place** in NLPCC 2023 Shared Task 9 Track 1, 2023.
