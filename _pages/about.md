@@ -49,7 +49,7 @@ redirect_from:
 
 <code class="language-plaintext highlighter-rouge">SemEval 2022</code>
 [TCU at SemEval-2022 Task 8: A Stacking Ensemble Transformer Model for Multilingual News Article Similarity](https://aclanthology.org/2022.semeval-1.170/),
-**Xiang Luo**, Yanqing Niu*, Boer Zhu
+**Xiang Luo**, Yanqing Niu*, Boer Zhu.
 
 [//]: # (</div>)
 
@@ -67,4 +67,4 @@ redirect_from:
 
 # 🎨 Academic Service
 <code class="language-plaintext highlighter-rouge">NLP Reviewer</code>
-ACL Rolling Review
+ACL Rolling Review.
