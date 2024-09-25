@@ -55,7 +55,7 @@ redirect_from:
 
 [//]: # (</div>)
 
-# 🎖 Honors and Awards
+# 🎈 Honors and Awards
 - **1st place** in NLPCC 2023 Shared Task 9 Track 1, 2023.
 
 
