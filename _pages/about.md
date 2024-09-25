@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👏Hi, I'm Luo Xiang, a post-graduate student in school of information and engineering, Yunnan University.
+👏Hi, I'm Xiang Luo, a post-graduate student in school of information and engineering, Yunnan University.
 
 🐱‍I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.<a href='https://scholar.google.com/citations?user=OnenzXIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -37,11 +37,11 @@ redirect_from:
 
 <code class="language-plaintext highlighter-rouge">ACL 2024</code>
 [Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation](https://aclanthology.org/2024.acl-long.312/),
-**Xiang Luo**, Zhiwen Tang*, Jin Wang*, Xuejie Zhang.
+**Xiang Luo**, Zhiwen Tang\*, Jin Wang\*, Xuejie Zhang.
 
 <code class="language-plaintext highlighter-rouge">COLING 2024</code>
 [DuetSim: Building User Simulator with Dual Large Language Models for Task-Oriented Dialogues](https://aclanthology.org/2024.lrec-main.481/),
-**Xiang Luo**, Zhiwen Tang*, Jin Wang*, Xuejie Zhang.
+**Xiang Luo**, Zhiwen Tang\*, Jin Wang\*, Xuejie Zhang.
 
 <code class="language-plaintext highlighter-rouge">ROCLING 2022</code>
 [YNU-HPCC at ROCLING 2022 Shared Task: A Transformer-based Model with Focal Loss and Regularization Dropout for Chinese Healthcare Named Entity Recognition](https://aclanthology.org/2022.rocling-1.42/),
@@ -61,8 +61,8 @@ redirect_from:
 
 
 # 📖 Educations
-- 🎓*2022.09 - Now*, Master, Yunnan University, Kunming.
-- 🎓*2018.09 - 2022.6*, Bachelor, South-Central University for Nationalities, Wuhan.
+- *2022.09 - Now*, Master, Yunnan University, Kunming.
+- *2018.09 - 2022.6*, Bachelor, South-Central University for Nationalities, Wuhan.
 
 
 # 🎨 Academic Service
