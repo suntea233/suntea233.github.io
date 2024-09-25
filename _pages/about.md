@@ -31,7 +31,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'></div>
+[//]: # (<div class='paper-box'></div>)
 <div class='paper-box-text' markdown="1">
 
 <code class="language-plaintext highlighter-rouge">ACL 2024</code>

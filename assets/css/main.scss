@@ -40,6 +40,48 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+div.highlighter-rouge,figure.highlight {
+    position: relative;
+    margin-bottom: 1em;
+    padding: 1em;
+    border: 1px solid #f2f3f3;
+    border-radius: 4px;
+    background-color: #fafafa;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.125)
+}
+
+div.highlighter-rouge:before,figure.highlight:before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5em;
+    background-color: #f2f3f3;
+    content: "\f121";
+    font-family: "fontawesome" !important;
+    font-size: 1em;
+    line-height: 1;
+    text-transform: none;
+    speak: none
+}
+
+div.highlighter-rouge .highlight,figure.highlight .highlight {
+    margin: 0;
+    font-family: Monaco,Consolas,"Lucida Console",monospace;
+    font-size: .6875em;
+    line-height: 1.8
+}
+
+.highlighter-rouge {
+    background-color: #03228d;
+    color: white;
+    margin-bottom: 0em;
+    padding: 0em;
+    font-size: .6875em;
+    border: 0px solid #f2f3f3;
+    border-radius: 0
+}
+
+
 .paper-box {
     display: flex;
     justify-content: left;
