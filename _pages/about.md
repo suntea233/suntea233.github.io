@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👏Hi, I'm Luo Xiang, a post-graduate student in school of information & engineering, Yunnan University.
+👏Hi, I'm Luo Xiang, a post-graduate student in school of information and engineering, Yunnan University.
 
 🐱‍I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.<a href='https://scholar.google.com/citations?user=OnenzXIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
