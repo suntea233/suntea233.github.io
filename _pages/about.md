@@ -69,4 +69,4 @@ redirect_from:
 
 # 🎨 Academic Service
 <code class="language-plaintext highlighter-rouge">NLP Reviewer</code>
-ACL Rolling Review.
+ACL Rolling Review, TASLP.
