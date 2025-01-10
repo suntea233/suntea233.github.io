@@ -37,6 +37,10 @@ redirect_from:
 
 [//]: # (<div class='paper-box-text' markdown="1">)
 
+<code class="language-plaintext highlighter-rouge">TASLP 2025</code>
+[Utterance Alignment of Language Models for Effective User Simulation in Task-Oriented Dialogues](https://ieeexplore.ieee.org/document/10830528),
+**Xiang Luo**, Jin Wang*, Xuejie Zhang.
+
 <code class="language-plaintext highlighter-rouge">ACL 2024</code>
 [Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation](https://aclanthology.org/2024.acl-long.312/),
 **Xiang Luo**, Zhiwen Tang\*, Jin Wang\*, Xuejie Zhang.
