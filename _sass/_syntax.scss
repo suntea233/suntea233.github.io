@@ -53,13 +53,11 @@ div.highlighter-rouge, figure.highlight {
   border-radius: 0;
 
   &:before {
-    position: absolute;
     top: 0;
     right: 0;
-    padding: 0.5em;
-    background-color: $lighter-gray;
-    content: "\f121"; // 或者其他图标代码
-    font-family: "fontawesome" !important;
+    //background-color: $lighter-gray;
+    //content: "\f121"; // 或者其他图标代码
+    //font-family: "fontawesome" !important;
     font-size: $type-size-6;
     line-height: 1;
     text-transform: none;
