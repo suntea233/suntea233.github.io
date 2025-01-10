@@ -43,6 +43,16 @@ div.highlighter-rouge, figure.highlight {
   border-radius: 0;
 }
 
+.highlighter-journal{
+  background-color: #ff9800;
+  color: #ffffff;
+  margin-bottom: 0em;
+  padding: 0em;
+  font-size: $type-size-7;
+  border: 0px solid $border-color;
+  border-radius: 0;
+}
+
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 

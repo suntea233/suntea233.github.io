@@ -37,7 +37,7 @@ redirect_from:
 
 [//]: # (<div class='paper-box-text' markdown="1">)
 
-<code class="language-plaintext highlighter-rouge">TASLP 2025</code>
+<code class="language-plaintext highlighter-journal">TASLP 2025</code>
 [Utterance Alignment of Language Models for Effective User Simulation in Task-Oriented Dialogues](https://ieeexplore.ieee.org/document/10830528),
 **Xiang Luo**, Jin Wang*, Xuejie Zhang.
 
