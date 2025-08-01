@@ -67,7 +67,8 @@ redirect_from:
 
 
 # 📖 Educations
-- *2022.09 - Now*, Master, Yunnan University, Kunming.
+- *2025.09 - Now*, Ph.D., Nanjing University, Suzhou.
+- *2022.09 - 2025.6*, Master, Yunnan University, Kunming.
 - *2018.09 - 2022.6*, Bachelor, South-Central University for Nationalities, Wuhan.
 
 
