@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👏Hi, I'm Xiang Luo, a post-graduate student in school of information and engineering, Yunnan University.
+👏Hi, I'm Xiang Luo, a Ph.D. student in school of intelligent software and engineering, Nanjing University.
 
 🐱‍I’m currently working on Natural Language Processing, especially Task-Oriented Dialogue and Multimodal.
 
-🐱‍💻Currently, I am a master at YNU supervised by [Prof. Jin Wang](http://www.ise.ynu.edu.cn/teacher/973).
+🐱‍💻Currently, I am supervised by [Zhiwei Jiang](https://zhiweinju.github.io/) at NJU, before this, I was supervised by [Prof. Jin Wang](http://www.ise.ynu.edu.cn/teacher/973) at YNU.
 
 [//]: # (<a href='https://scholar.google.com/citations?user=OnenzXIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>&#41;.)
 
