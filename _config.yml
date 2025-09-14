@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiang Luo"
   avatar           : "images/duck.jpg"
-  bio              : "Yunnan University"
-  location         : "Kunming, China"
+  bio              : "Nanjing University"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=OnenzXIAAAAJ"
-  email            : "luoxiang@mail.ynu.edu.cn"
+  email            : "luoxiang@smail.ynu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
